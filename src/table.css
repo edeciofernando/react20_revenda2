@@ -1,0 +1,11 @@
+.table td:nth-child(4) {
+    text-align: right;
+}
+
+.table td:nth-child(5) {
+    text-align: center;
+}
+
+.far {
+    cursor: pointer;
+}
